@@ -1,1 +1,1 @@
-A library management system with all basic requirments using RESTFUL Web Sevices using Spring MVC & MySQL. Uses Apache Tomcat as the default embedded container. Planning to add React based frontend to the system later;
+A library management system with all basic requirments implemented using RESTFUL Web Sevices over Spring MVC & MySQL. Uses Apache Tomcat as the default embedded container. Planning to add React based frontend to the system later;
